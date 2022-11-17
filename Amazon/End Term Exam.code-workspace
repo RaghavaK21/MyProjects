@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../End Term Exam"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../portfolio website"
+		},
+		{
+			"path": "../portfolio website/Responsive Portfolio Website"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "portfolio website"
+	}
+}
